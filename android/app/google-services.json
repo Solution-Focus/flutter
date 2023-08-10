@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245426073931",
+    "project_id": "heycosmetics",
+    "storage_bucket": "heycosmetics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245426073931:android:e7fcc075bb93153d29f8ce",
+        "android_client_info": {
+          "package_name": "com.solutionfocus.cosmetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245426073931-kp0kcivesdn7eh7r2nir9schcj61sqmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCphi4p4qLe_0kEddALyiMUiZcPPpD3z5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245426073931-kp0kcivesdn7eh7r2nir9schcj61sqmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
