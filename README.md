@@ -1,4 +1,4 @@
-# aus
+# cosmetics
 
 A new Flutter project.
 
